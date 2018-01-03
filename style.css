@@ -1,0 +1,116 @@
+*
+{
+  box-sizing: border-box;
+}
+.container
+{
+  width: 60%;
+  margin: 0 auto;
+  text-align: center;
+}
+.moveimg
+{
+  float: left;
+  margin-top: 2px;
+  padding-left: 80px;
+  text-align: center;
+}
+
+.list li
+{
+  display: inline-block;
+  margin: 30px;
+  padding-top: 10px;
+  vertical-align: middle;
+  text-align: center;
+}
+.list i
+{
+  margin-left: -20px;
+  text-align: center;
+
+}
+.list a
+{
+  text-decoration: none;
+  margin: 20px;
+  color: #49C3B4;
+font-family: 'Courgette', cursive;
+text-align: center;
+}
+
+.pres
+{
+  background-image: url(fond.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding-bottom: 700px;
+}
+
+.pres header
+{
+  background-color: rgb(73, 195, 180);
+  opacity: 0.75;
+  height: 130px;
+  padding-top: 10px;
+  text-align: center;
+  font-family: 'Courgette', cursive;
+  color: white;
+  position: relative;
+  top: 300px;
+}
+.style2
+{
+  padding: 330px 0;
+  font-family: 'Courgette', cursive;
+  text-align: center;
+  background-color: #49C3B4;
+}
+.style
+{
+  font-family: 'Open Sans', sans-serif;
+  background-color: #49C3B4;
+  margin: 0;
+  padding: 5px;
+  text-align: center;
+  color: white;
+}
+.list2 li
+{
+  padding: 4px;
+}
+
+.m1
+{
+  font-family: 'Courgette', cursive;
+  text-align: justify;
+}
+
+
+.clmn
+{
+width: 33.3333%;
+float: left;
+background-color: #B7B12E;
+color: white;
+padding-bottom: 20px;
+}
+
+.clmn h3
+{
+  font-family: 'Courgette', cursive;
+  text-align: center;
+}
+
+.imgw
+{
+text-align: center;
+}
+
+footer
+{
+  background-color: #49C3B4;
+  text-align: center;
+  padding: 10px;
+  color: white;
+}
